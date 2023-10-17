@@ -4,10 +4,6 @@
     {
         static void Main(string[] args)
         {
-            int a = 0;
-            string sas;
-            string pes;
-            for (int sax = 0; sax < 4;)
             int a = 0; //tentativi falliti
             string sas; //password
             string pes; //nome utente
